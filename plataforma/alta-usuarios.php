@@ -17,7 +17,7 @@
     <link href="assets/css/style.css" rel="stylesheet" />
     <!-- GOOGLE FONT -->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
-
+    <p>hola</p>
 </head>
 <?php 
 $_SESSION['tipo_usuario'] = "Admin";
